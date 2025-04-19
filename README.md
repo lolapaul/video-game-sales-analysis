@@ -1,10 +1,10 @@
-# 🎮 Video Game Sales Analysis
+#  Video Game Sales Analysis
 
 Exploratory data analysis of global video game sales, platforms, genres, and regional patterns. This project helps identify successful game features and informs marketing strategies for upcoming game releases.
 
 ---
 
-## 📌 Objective
+##  Objective
 
 Analyze historical video game sales data to:
 
@@ -15,7 +15,7 @@ Analyze historical video game sales data to:
 
 ---
 
-## 📊 Dataset Description
+##  Dataset Description
 
 The dataset includes sales and metadata for video games up to 2016:
 
@@ -30,7 +30,7 @@ The dataset includes sales and metadata for video games up to 2016:
 
 ---
 
-## 🔍 Project Workflow
+##  Project Workflow
 
 1. **Data Cleaning & Preprocessing**
    - Rename columns, handle missing values, format data types
@@ -51,7 +51,7 @@ The dataset includes sales and metadata for video games up to 2016:
 
 ---
 
-## 📊 Key Questions Answered
+##  Key Questions Answered
 
 - Which platforms were most successful over time?
 - What genres and platforms dominate each region?
@@ -60,7 +60,7 @@ The dataset includes sales and metadata for video games up to 2016:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 video-game-sales-analysis/
@@ -74,7 +74,7 @@ video-game-sales-analysis/
 
 ---
 
-## 🛠️ Tools & Libraries Used
+##  Tools & Libraries Used
 
 - Python
 - pandas
@@ -85,7 +85,7 @@ video-game-sales-analysis/
 
 ---
 
-## ✅ Status
+##  Status
 
 ✔️ Project completed as part of the **TripleTen Bootcamp** – Sprint: *Game Industry Trends & Statistical Analysis*
 
