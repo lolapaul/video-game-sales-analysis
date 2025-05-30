@@ -85,13 +85,7 @@ video-game-sales-analysis/
 
 ---
 
-##  Status
-
-✔️ Project completed as part of the **TripleTen Bootcamp** – Sprint: *Game Industry Trends & Statistical Analysis*
-
----
-
-## 📌 Author
+## Author
 
 David Villanueva  
 [LinkedIn](https://www.linkedin.com/in/david-villanueva-59659727)  
